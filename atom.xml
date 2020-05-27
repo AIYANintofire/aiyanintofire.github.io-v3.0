@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;Blog-严之艮的个人博客</title>
-    <updated>2020-05-27T11:36:21.483Z</updated>
+    <updated>2020-05-27T12:14:15.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://aiyanintofire.github.io/images/avatar.png</logo>
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;Blog-严之艮的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[又有重大消息]]></title>
+        <id>https://aiyanintofire.github.io/post/you-you-chong-da-xiao-xi/</id>
+        <link href="https://aiyanintofire.github.io/post/you-you-chong-da-xiao-xi/">
+        </link>
+        <updated>2020-05-27T12:04:29.000Z</updated>
+        <content type="html"><![CDATA[<p>这周R星又又又出“大招”了<br>
+上周R星的免费游戏是GTA5，而这周是《文明5》.。。。<br>
+不得不说，R星有钱，有钱真的可以为所欲为的。。。</p>
+<figure data-type="image" tabindex="1"><img src="https://aiyanintofire.github.io/post-images/1590581606943.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://aiyanintofire.github.io/post-images/1590581584480.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爬取练习]]></title>
         <id>https://aiyanintofire.github.io/post/pa-qu-lian-xi/</id>
