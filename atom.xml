@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;Blog</title>
-    <updated>2020-06-08T15:58:41.638Z</updated>
+    <updated>2020-06-14T13:04:30.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://aiyanintofire.github.io/images/avatar.png</logo>
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[工作小结]]></title>
+        <id>https://aiyanintofire.github.io/post/gong-zuo-xiao-jie/</id>
+        <link href="https://aiyanintofire.github.io/post/gong-zuo-xiao-jie/">
+        </link>
+        <updated>2020-06-14T12:59:12.000Z</updated>
+        <content type="html"><![CDATA[<p>今天终于把个人论坛弄好了。。。。<br>
+<img src="https://aiyanintofire.github.io/post-images/1592139678619.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[琵琶行]]></title>
         <id>https://aiyanintofire.github.io/post/pi-pa-xing/</id>
@@ -270,18 +280,6 @@ Gridea也没有办法用加粗或斜体符</p>
 </blockquote>
 <p>哎<sub>终于讲完了</sub>吁~</p>
 <p>博主:Nick 2020-05-21</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客技术交流群]]></title>
-        <id>https://aiyanintofire.github.io/post/bo-ke-ji-zhu-jiao-liu-qun/</id>
-        <link href="https://aiyanintofire.github.io/post/bo-ke-ji-zhu-jiao-liu-qun/">
-        </link>
-        <updated>2020-05-19T09:44:39.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>QQ:964566216<br>
-欢迎大家加入</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
