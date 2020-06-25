@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aiyanintofire.github.io</id>
     <title>Nick&apos;Blog</title>
-    <updated>2020-06-20T07:09:57.664Z</updated>
+    <updated>2020-06-25T03:03:10.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aiyanintofire.github.io"/>
     <link rel="self" href="https://aiyanintofire.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://aiyanintofire.github.io/images/avatar.png</logo>
     <icon>https://aiyanintofire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nick&apos;Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[公告20200625]]></title>
+        <id>https://aiyanintofire.github.io/post/gong-gao-20200625/</id>
+        <link href="https://aiyanintofire.github.io/post/gong-gao-20200625/">
+        </link>
+        <updated>2020-06-25T03:00:59.000Z</updated>
+        <content type="html"><![CDATA[<p>最近博主可能会停更一段时间<br>
+因为最近社团的事太多了<br>
+还有:我要期末考了<br>
+抱歉了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[工作小结]]></title>
         <id>https://aiyanintofire.github.io/post/gong-zuo-xiao-jie/</id>
@@ -214,72 +226,6 @@
 没错就是这个神奇的组合,一个大佬云集的选择...(/悄悄话 我现在都觉得我可能走错片场了...因为作为标准的差生,博主我在这片神奇的大佬云集地根本就没有生存空间...呜呜呜...😭)<br>
 哎~~</p>
 <p>博主:Nick 2020-05-22</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Gridea编写博客教程]]></title>
-        <id>https://aiyanintofire.github.io/post/shi-yong-gridea-bian-xie-bo-ke-jiao-cheng/</id>
-        <link href="https://aiyanintofire.github.io/post/shi-yong-gridea-bian-xie-bo-ke-jiao-cheng/">
-        </link>
-        <updated>2020-05-21T00:32:06.000Z</updated>
-        <content type="html"><![CDATA[<blockquote>
-<p>这是我第二篇关于建站的教程了,因为写得比较仓促所以很多细节要等博主有时间的时候再来完善了,大家都知道,码字辛苦,所以请各位客官大大的高抬贵手,别喷我~~~</p>
-</blockquote>
-<h1 id="前言">前言</h1>
-<p>由于之前博主对于建站这码事涉猎不多所以没能完整的思路清晰的写好一个站点所以今天我就给大家安利一款小白也能编写博客的软件,只要你会点击鼠标,就可以拥有一个博客!<br>
-*准备：<br>
-1.软件:Gridea<br>
-2.主题:主题下载<a href="https://gridea.dev/themes/">Gridea官方主题地址</a><br>
-3.账号方面:一个<a href="https://github.com/">GitHub</a>账号<a href="https://aiyanintofire.github.io/post/gan-huo-jian-zhan-jiao-cheng/">参见我上一篇文章</a></p>
-<h1 id="关于gridea">关于Gridea</h1>
-<p>Gridea是一个专门编辑GitHub托管静态网站博客的软件,虽然作者没有明确说明,但经博主分析,Gridea是在部分基于Git的基础上面向小白的一款个人网站编辑器<br>
-在此基础上各路大神已经为该社区贡献了数十个主题,因为大家都处于开源社区所以大部分主题都是免费的,开源的</p>
-<h1 id="关于nicks-blog">关于Nick's Blog</h1>
-<p>博主现如今也投身Gridea的怀抱,原因很简单,之前有了解过我的博客的发展历史的人都知道,我之前费尽心思,多次熬夜爆肝写代码,花了我四天时间才把网站的主体框架搭建好,外加写两篇博文,一共花了我六天时间!为什么算下来写一篇博文要花我一天时间?哼!每写一篇博文,博主都要费尽心思写一个HTML代码!<br>
-什么意思?<br>
-就是写一篇博文,博主都要重新搭建一个网站!<br>
-于是博主如今采用的就是Gridea</p>
-<h1 id="进入正题">进入正题</h1>
-<blockquote>
-<p>博主以GitHub为例</p>
-</blockquote>
-<h2 id="进入gridea官网">进入<a href="https://gridea.dev/">Gridea官网</a></h2>
-<figure data-type="image" tabindex="1"><img src="https://aiyanintofire.github.io/post-images/1590024851399.png" alt="" loading="lazy"></figure>
-<h2 id="进入主题gridea主题">进入主题<a href="https://gridea.dev/themes/">Gridea主题</a></h2>
-<p><img src="https://aiyanintofire.github.io/post-images/1590024936428.png" alt="" loading="lazy"><br>
-##配置GitHub<br>
-进入<a href="https://github.com">GitHub官网</a><br>
-点击头像<br>
-找到setting(<a href="https://github.com/settings/profile">设置</a>)<br>
-找到左侧最后一行的<a href="https://github.com/settings/apps">Developer settings</a><br>
-点击左侧最后一行<a href="https://github.com/settings/tokens">Personal access tokens</a><br>
-点击<a href="https://github.com/settings/tokens/new">New personal access token</a><br>
-<img src="https://aiyanintofire.github.io/post-images/1590027300848.png" alt="" loading="lazy"><br>
-如图进行操作<br>
-<img src="https://aiyanintofire.github.io/post-images/1590027465045.png" alt="" loading="lazy"><br>
-下拉到最后点击Generate token<br>
-<img src="https://aiyanintofire.github.io/post-images/1590027591042.png" alt="" loading="lazy"><br>
-然后...<br>
-<img src="https://aiyanintofire.github.io/post-images/1590027872168.png" alt="" loading="lazy"><br>
-<img src="https://aiyanintofire.github.io/post-images/1590027889497.webp" alt="" loading="lazy"><br>
-配置完成后直接就可以编写博客啦!</p>
-<blockquote>
-<p>注意:Gridea的博客编写也是有语法的!是Markdown语法</p>
-</blockquote>
-<p>如果不会Markdown的同学请点击<a href="https://www.runoob.com/markdown/md-tutorial.html">Markdown学习</a><br>
-但是Gridea的语法很奇怪,不是很正宗的Markdonw</p>
-<h2 id="gridea编辑博客语法">Gridea编辑博客语法</h2>
-<blockquote>
-<p>不知道是不是因为我用的是Windows端导致的</p>
-</blockquote>
-<blockquote>
-<p>在Gridea的Markdown中<br>
-想要完成一个目录必须在#号后面加两个空格<br>
-文章照常不用语法但段首不得空两个字英语里称之为齐头式<br>
-Gridea也没有办法用加粗或斜体符</p>
-</blockquote>
-<p>哎<sub>终于讲完了</sub>吁~</p>
-<p>博主:Nick 2020-05-21</p>
 ]]></content>
     </entry>
 </feed>
